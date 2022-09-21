@@ -1,0 +1,18 @@
+{"user_email":"mymail@gmail.com",
+"user_password":"Mypass12",
+"user_fname":"Fullname",
+"user_lname":"Lastname",
+"user_gender":"male",
+"user_phone":"0234562345"}
+
+{"user_email":"mymail@gmail.com",
+"user_password":"Mypass12"}
+
+{"course_name":"คอร์ส Python",
+"course_video":"link",
+"course_videoname":"ชื่อคอร์ส",
+"descript": "คำอธิบายคอร์ส",
+"course_price": 10000}
+
+{"course_price": 10000,
+"bill_total":  20000}
