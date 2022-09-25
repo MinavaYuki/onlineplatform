@@ -14,7 +14,7 @@ async def CoUp(coit : CourseUpload):
 
 @app.post("/SignUp/")
 async def SignUpFunc(sign : SignUp):
-    return{"message" : "Test test"}
+    return{"echo" : sign} 
     
 @app.post("/Login/")
 async def LoginFunc(logi : Login):
